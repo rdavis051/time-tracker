@@ -5,6 +5,7 @@ Java (Maven) application for tracking time on the job
 ## Purpose
 
 Simple Java-app using Maven.
+This is a demo repo.
 
 ## Building
 
