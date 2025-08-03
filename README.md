@@ -5,7 +5,7 @@ Java (Maven) application for tracking time on the job
 ## Purpose
 
 Simple Java-app using Maven.
-This is a demo repo.
+This is a demo repo. (It is being used to test the polling feature of Jenkings to create builds)
 
 ## Building
 
